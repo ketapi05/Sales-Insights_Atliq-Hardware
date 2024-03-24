@@ -33,9 +33,4 @@ Hooray! Finally, this is what final output looks like:
 
 ![Altiq_Harware_Sales_insight](https://user-images.githubusercontent.com/90029373/170982192-cfd5fd13-4af5-4bf9-b562-4baad77b8229.png)
 
-# 👏 Support
 
-Give a ⭐️ if you like this project!
-___________________________________
-
-<p>&copy; 2021 Subala Singh</p>
